@@ -1,0 +1,118 @@
+ .myform{
+   margin:0 auto;
+   width:450px;
+   padding:14px;
+ }
+  .myform2{
+   margin:0 auto;
+   width:800px;
+  overflow:hidden;
+   height:1%;
+   padding:14px;
+ }
+ 
+
+ 
+   /* ----------- stylized ----------- */
+   #stylized{
+       border:solid 2px #b7ddf2;
+       background:#ebf4fb;
+   }
+   #stylized h1 {
+       font-size:14px;
+       font-weight:bold;
+       margin-bottom:8px;
+   }
+   #stylized p{
+       font-size:11px;
+       color:#666666;
+       margin-bottom:20px;
+       border-bottom:solid 1px #b7ddf2;
+       padding-bottom:10px;
+   }
+   #stylized label{
+       display:block;
+       font-weight:normal;
+       text-align:right;
+       width:120px;
+       float:left;
+	   font-size:14px;
+ 
+   }
+   #stylized .small{
+       color:#666666;
+ display:block;
+       font-size:15px;
+       font-weight:bold;
+       text-align:right;
+       width:140px;
+   }
+   #stylized input{
+       float:left;
+       font-size:12px;
+       padding:4px 2px;
+       border:solid 1px #aacfe4;
+       width:250px;
+       margin:2px 0 20px 10px;
+   }
+   
+    .Tarea
+	{
+		font-size:12px;
+		width:250px;
+		height:150px;
+	}
+	
+   #stylized button{
+       clear:both;
+     
+ 
+       height:31px;
+       background:#666666 url(img/button.png) no-repeat;
+       text-align:center;
+       line-height:31px;
+       color:#FFFFFF;
+       font-size:11px;
+       font-weight:bold;
+	   margin:10px;
+   }
+  
+  .table
+  {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	 
+	width: 850px;
+	text-align: left;
+	border-collapse: collapse;
+  }
+  
+  .table th
+{
+	padding: 8px;
+	font-weight: normal;
+	font-size: 13px;
+	color: #039;
+	background: #b9c9fe;
+	
+}
+.table td
+{
+	padding: 8px;
+	background: #e8edff;
+	border-top: 1px solid #fff;
+	color: #669;
+}
+.storyLabel
+{
+	font-size:14px;
+	float:left;
+	text-align:left;
+	font-weight:normal;
+	display:inline;
+}
+.storySelect
+{
+	float:left;
+	width:30%;
+}

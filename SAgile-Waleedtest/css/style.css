@@ -1,0 +1,167 @@
+.clstbl {border-style: solid; border-width: 1px; border-color: lightgray; border-collapse: collapse; }
+.clstbl1 {border-style: solid; border-width: 1px;  border-collapse: collapse; border-color:#e1eefe; padding: 2px;}
+.clstbl2 {border-style: solid; border-width: 1px;  border-collapse: collapse; border-color:#e1eefe; padding: 6px;}
+.clstbl3 {padding: 6px; font-size: 9px;}
+.clstd {font-family: Tahoma, Verdana, sans-serif; font-size: 11px; border-color:#ffffff;}
+.clstd9 {font-family: Tahoma, Verdana, sans-serif; font-size: 9px; color:gray;}
+.clstd10 {font-family: Tahoma, Verdana, sans-serif; font-size: 11px; color:gray;}
+.clstd_center {font-family: Tahoma, Verdana, sans-serif; font-size: 12px; border-color:#ffffff ; align: center;}
+.clstd1 {font-family: Tahoma, Verdana, sans-serif; font-size: 11px; border-color:#ffffff;}
+.clstd2 {font-family: Tahoma, Verdana, sans-serif; font-size: 12px; border:2px solid #dddddd;}
+.clstd_red {font-family: Tahoma, Verdana, sans-serif; font-size: 11px; border-color:#ffffff; color:#AB0000; border-style: solid; border-width: 1px;  border-collapse: collapse; border-color:#e1eefe}
+
+.clstd_red11 {font-family: Tahoma, Verdana, sans-serif; font-size: 11px; border-color:#ffffff; color: #63C}
+
+.clstd_gray {font-family: Tahoma, Verdana, sans-serif; font-size: 11px; color:gray; border-style: solid; border-width: 1px;  border-collapse: collapse; border-color:#e1eefe}
+.clstd_dgray {font-family: Tahoma, Verdana, sans-serif; font-size: 11px; color:black; border-style: solid; border-width: 1px;  border-collapse: collapse; border-color:#e1eefe}
+.clstd_border {font-family: Tahoma; font-size: 11px;
+  border-style: dashed;  border-width: 1px 0px 0 0;   padding: 4px; border-color:#4682B4;
+  }
+.clstd_border1 {font-family: Tahoma, Verdana, sans-serif; font-size: 11px;
+  border-style: none;  border-width: 1px 0px 1 0;   padding: 4px; font-weight: bold;
+  }
+
+
+
+select {font-family: Tahoma, Verdana, sans-serif; font-size: 11px; background-color:#ffffff;
+            border:solid 1px #dddddd;
+            }
+a:link {
+  color: #4682B4;
+  text-decoration: none;
+  font-family: Tahoma;
+  }/*normal links in the text */
+a:visited {
+  color: #66C;
+  text-decoration: none; 
+  }
+a:hover { /*this effect is not shown in NN4.xx*/
+  color: #69C;
+  text-decoration: underline; 
+  background: #9CF;}
+hr {color: lightgray;
+background-color: #f00;
+height: 1px;
+}
+.link {
+  color: #66C;
+  text-decoration: none;
+  font-family: Tahoma, Verdana, sans-serif; font-size: 12px; border-color:#ffffff ;   
+  }/*normal links in the text*/
+
+.btn1 {
+    background-image:url(../images/btn1.gif);
+    border:0;
+    width: 80px;
+    color: #fff;
+    font-family: verdana;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.btn2 {
+    background-image:url(../images/wori_blue.jpg);
+    border:0;
+    width: 40px;
+    color: #fff;
+    font-family: verdana;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.btn3 {
+    background-image:url(../images/btn7.gif);
+    border:0;
+    width: 53px;
+    height: 15px;
+    color: #fff;
+    font-family: verdana;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 0 0 2px;
+}
+
+
+.top{
+  background: url(../images/top_img.gif);
+}
+.bottom{
+  background: url(../images/bottom_img.gif);
+}
+.left{
+  background: url(../images/left_img.gif);
+}
+.right{
+  background: url(../images/right_img.gif);
+}
+
+.container {background:#C3D9FF; color:#fff; margin:0 0;}
+.rtop, .rbottom{
+display:block;
+background:#fff;
+}
+.rtop *, .rbottom *{
+display: block;
+height: 1px;
+overflow: hidden;
+background:#C3D9FF;
+}
+.r1{margin: 0 5px; }
+.r2{margin: 0 3px; }
+.r3{margin: 0 2px; }
+.r4{margin: 0 1px; height: 2px; }
+
+.container1 {background:#C3D9FF; color:#fff; margin:0 0;}
+.rtop1, .rbottom1{
+display:block;
+background:#fff;
+}
+.rtop1 *, .rbottom1 *{
+display: block;
+height: 1px;
+overflow: hidden;
+background:#C3D9FF;
+}
+.r11{margin: 0 5px}
+.r12{margin: 0 3px}
+.r13{margin: 0 2px}
+.r14{margin: 0 1px; height: 2px}
+
+.noteRed{
+color:red;
+}
+
+.blueHead{
+color:#0B0B61;
+text-decoration: none;
+font-family: verdana;
+font-size: 24px;
+font-weight: bold;
+padding : 6px 6px;
+}
+.blueClr{
+color:#0B0B61;
+text-decoration: none;
+}
+
+
+.stylish-button {
+display: block;
+width: 50px;
+height: 20px;
+ 
+padding: 10px;
+text-align: center;
+border-radius: 5px;
+ 
+ 
+text-decoration:none;
+ padding: 3px;
+font-weight: normal;
+font-size: 13px;
+color: #039;
+background: #b9c9fe;
+}
+ 
